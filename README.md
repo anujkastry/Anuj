@@ -1,4 +1,4 @@
 # Anuj
 Hello my name is Anuj Kastry.
-I aM a student of First Year CSE Department.
+I am a student of First Year CSE Department.
 
